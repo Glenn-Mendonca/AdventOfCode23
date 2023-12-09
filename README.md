@@ -2,6 +2,8 @@
 
 This repository contains my solutions to the Advent of Code 2023 problems. Advent of Code is an annual coding event where participants solve a series of programming puzzles throughout the month of December.
 
+Visit the [Advent of Code website](https://adventofcode.com/) to learn more about the event.
+
 ## Structure
 
 The repository is organized into folders, one for each day of the event. Each folder contains the solution code for the corresponding day's problem. Additionally, there may be input files or any other resources required for the solutions.
